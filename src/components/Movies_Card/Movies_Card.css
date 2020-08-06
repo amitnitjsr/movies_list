@@ -1,0 +1,38 @@
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -5px;
+}
+
+.text{
+    text-align: start;
+    font-weight: 500 !important;
+}
+.top-prod{
+    max-height: 300;
+    max-width: 500;
+     margin: 0.6%;
+ }
+ .textstyle{
+     color: #42b6f5;
+ }
+ .btn-style{
+   width: -webkit-fill-available;
+   background-color: #42b6f5;
+   border: none;
+   height: 30px;
+   border-radius: 4px;
+   color: azure;
+   margin: 4%;
+ }
+ .votes{
+    margin-top: 51px;
+ }
+ .font{
+     font-size: 50px;
+ }
+ .loading{
+    position: relative;
+    margin-top: 25%;
+    margin-left: 50%;
+ }

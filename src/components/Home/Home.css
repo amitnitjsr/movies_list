@@ -1,0 +1,10 @@
+
+.position{
+  position: relative;
+  left: auto;
+  text-align: -webkit-center;
+}
+
+.pos{
+  margin: 5%;
+}
