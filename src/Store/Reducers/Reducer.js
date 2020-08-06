@@ -9,9 +9,7 @@ const iState = {
 };
 
 const sessionValueSet = (value = false) => {
-
     sessionStorage.setItem("isUserLogged", value);
-    console.log('seession', value)
 }
 
 const reducer = (state = iState, action) => {
